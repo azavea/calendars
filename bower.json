@@ -29,7 +29,18 @@
   "authors": [
     "Keith Wood"
   ],
-  "main": "jquery.calendars.js",
+  "main": [
+    "jquery.calendars.js",
+    "jquery.plugin.js",
+    "jquery.calendars.plus.js",
+    "jquery.calendars.picker.js",
+    "jquery.calendars.islamic.js",
+    "jquery.calendars.ummalqura.js",
+    "jquery.calendars-ar.js",
+    "jquery.calendars.picker-ar.js",
+    "jquery.calendars.islamic-ar.js",
+    "jquery.calendars.ummalqura-ar.js"
+  ],
   "ignore": [
     "*.gif",
     "*.html",
