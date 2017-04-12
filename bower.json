@@ -40,6 +40,10 @@
     "jquery.calendars.picker-ar.js",
     "jquery.calendars.islamic-ar.js",
     "jquery.calendars.ummalqura-ar.js",
+    "jquery.calendars-pt-BR.js",
+    "jquery.calendars.picker-pt-BR.js",
+    "jquery.calendars-vi.js",
+    "jquery.calendars.picker-vi.js",
     "redmond.calendars.picker.css"
   ],
   "ignore": [
