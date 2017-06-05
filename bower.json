@@ -44,6 +44,10 @@
     "jquery.calendars.picker-pt-BR.js",
     "jquery.calendars-vi.js",
     "jquery.calendars.picker-vi.js",
+    "jquery.calendars-es.js",
+    "jquery.calendars.picker-es.js",
+    "jquery.calendars-zh-CN.js",
+    "jquery.calendars.picker-zh-CN.js",
     "redmond.calendars.picker.css"
   ],
   "ignore": [
