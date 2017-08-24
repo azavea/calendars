@@ -48,6 +48,8 @@
     "jquery.calendars.picker-es.js",
     "jquery.calendars-zh-CN.js",
     "jquery.calendars.picker-zh-CN.js",
+    "jquery.calendars-bn.js",
+    "jquery.calendars.picker-bn.js",
     "redmond.calendars.picker.css"
   ],
   "ignore": [
