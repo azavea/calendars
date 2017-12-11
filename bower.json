@@ -52,6 +52,8 @@
     "jquery.calendars.picker-bn.js",
     "jquery.calendars-lo.js",
     "jquery.calendars.picker-lo.js",
+    "jquery.calendars-th.js",
+    "jquery.calendars.picker-th.js",
     "redmond.calendars.picker.css"
   ],
   "ignore": [
