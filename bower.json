@@ -35,7 +35,6 @@
     "jquery.calendars.js",
     "jquery.plugin.js",
     "jquery.calendars.plus.js",
-    "jquery.calendars.picker.js",
     "jquery.calendars-af.js",
     "jquery.calendars-am.js",
     "jquery.calendars-ar-DZ.js",
@@ -195,6 +194,10 @@
     "jquery.calendars.picker-zh-CN.js",
     "jquery.calendars.picker-zh-HK.js",
     "jquery.calendars.picker-zh-TW.js",
+    "jquery.calendars.islamic.js",
+    "jquery.calendars.ummalqura.js",
+    "jquery.calendars.islamic-ar.js",
+    "jquery.calendars.ummalqura-ar.js",
     "redmond.calendars.picker.css"
   ],
   "ignore": [
