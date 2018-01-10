@@ -29,8 +29,6 @@
 		"Keith Wood <wood.keith@optusnet.com.au> (http://keith-wood.name)"
 	],
 	"licence": "MIT",
-	"ignore": [
-		"**/.*",
   "main": [
     "jquery.calendars.js",
     "jquery.plugin.js",
@@ -194,9 +192,20 @@
     "jquery.calendars.picker-zh-CN.js",
     "jquery.calendars.picker-zh-HK.js",
     "jquery.calendars.picker-zh-TW.js",
+    "jquery.calendars.ethiopian.js",
+    "jquery.calendars.ethiopian-am.js",
+    "jqueyr.calendars.hebrew.js",
+    "jquery.calendars.hebrew-he.js",
     "jquery.calendars.islamic.js",
-    "jquery.calendars.ummalqura.js",
     "jquery.calendars.islamic-ar.js",
+    "jquery.calendars.islamic-fa.js",
+    "jquery.calendars.nanakshahi.js",
+    "jquery.calendars.nanakshahi-pa.js",
+    "jquery.calendars.nepali.js",
+    "jquery.calendars.nepali-ne.js",
+    "jquery.calendars.persian.js",
+    "jquery.calendars.persian-fa.js",
+    "jquery.calendars.ummalqura.js",
     "jquery.calendars.ummalqura-ar.js",
     "redmond.calendars.picker.css"
   ],
@@ -213,7 +222,7 @@
 		"src/bower_components"
 	],
 	"dependencies": {
-    "jquery": "^1.7"
+    "jquery": "^1.7",
 		"kbw-plugin": "~1.0.3"
 	},
 	"devDependencies": {
