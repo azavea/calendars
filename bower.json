@@ -38,8 +38,6 @@
     "*.json",
     "*.md",
     "*.png",
-    "jquery.calendars-*.js",
-    "jquery.calendars.picker-*.js",
     "jquery.*.min.js",
 		"node_modules",
 		"src/bower_components"
