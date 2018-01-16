@@ -30,8 +30,8 @@
     "Keith Wood"
   ],
   "main": [
-    "jquery.calendars.js",
     "jquery.plugin.js",
+    "jquery.calendars.js",
     "jquery.calendars.plus.js",
     "jquery.calendars-af.js",
     "jquery.calendars-am.js",
